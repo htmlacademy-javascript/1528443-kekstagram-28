@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Alexander Vershinin](https://up.htmlacademy.ru/javascript/28/user/1528443).
-* Наставник: `Неизвестно`.
+* Наставник: [`Олег Зубов`](https://htmlacademy.ru/profile/id42701).
 
 ---
 
